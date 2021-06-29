@@ -63,6 +63,36 @@ namespace DEVIL_S_FANTASY_LAUNCHER.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _124851078928 {
+            get {
+                object obj = ResourceManager.GetObject("124851078928", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1579214717_1_2 {
+            get {
+                object obj = ResourceManager.GetObject("1579214717_1-2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _checked {
+            get {
+                object obj = ResourceManager.GetObject("checked", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bmw_f82_gta_5_4k_i5_3840x2400 {
             get {
                 object obj = ResourceManager.GetObject("bmw-f82-gta-5-4k-i5-3840x2400", resourceCulture);
